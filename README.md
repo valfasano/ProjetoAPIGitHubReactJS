@@ -3,9 +3,6 @@
 O projeto tem o objetivo de criar um aplicativo que busca perfis no Github.
 Eu recriei para a conclusão do módulo "Desenvolvimento Web com React" para o Bootcamp da Digital Innovation One.
 
-## O projeto original pode ser encontrado em:
-https://github.com/benits/github-api-interface
-
 ## Create React App
 
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
