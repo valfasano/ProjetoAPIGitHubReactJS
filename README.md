@@ -10,7 +10,7 @@ https://github.com/benits/github-api-interface
 
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
-### Preview
+### Imagens do Projeto Personalizado:
 
 https://www.imagemhost.com.br/image/rtbF5r
 
