@@ -17,12 +17,6 @@ Eu recriei para a conclusão do módulo "Desenvolvimento Web com React" para o B
 
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
-### Imagens do Projeto Personalizado:
-
-https://www.imagemhost.com.br/image/rtbF5r
-
-https://www.imagemhost.com.br/image/rtbEKi
-
 ### Bibliotecas usadas
 
 - [axios](https://www.npmjs.com/package/axios)
