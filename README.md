@@ -5,8 +5,11 @@ Eu recriei para a conclusão do módulo "Desenvolvimento Web com React" para o B
 
 # Imagens
 
+### Tela inicial
 ![Screenshot](screenshot1.jpg)
-##
+
+### Tela após pesquisa
+
 ![Screenshot](screenshot2.jpg)
 
 
