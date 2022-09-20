@@ -5,8 +5,8 @@ Eu recriei para a conclusão do módulo "Desenvolvimento Web com React" para o B
 
 # Imagens
 
-![Screenshot](screenshot1.jpeg)
-![Screenshot](screenshot2.jpeg)
+![Screenshot](screenshot1.jpg)
+![Screenshot](screenshot2.jpg)
 
 
 ## Create React App
