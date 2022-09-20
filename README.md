@@ -1,7 +1,11 @@
-# Sobre o projeto
+# Integração de API do Github
 
 O projeto tem o objetivo de criar um aplicativo que busca perfis no Github.
 Eu recriei para a conclusão do módulo "Desenvolvimento Web com React" para o Bootcamp da Digital Innovation One.
+
+# Imagens
+
+
 
 ## Create React App
 
